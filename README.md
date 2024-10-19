@@ -114,18 +114,18 @@ com:
 ## 插件配置
 
 1. plugin-meta.properties
-    ```properties
-    # 插件 boot class
-    plugin.boot.class=com.itranlin.open.hexagon.example.empty.Boot
-    # code 名 不能为空
-    plugin.domain=example.plugin.empty
-    # 描述
-    plugin.desc=this a plugin a empty demo
-    # 版本
-    plugin.version=1.0.0
-    # 扩展
-    plugin.ext=null
-    ```
+   ```properties
+   # 插件 boot class
+   plugin.boot.class=com.itranlin.open.hexagon.example.empty.Boot
+   # code 名 不能为空
+   plugin.domain=example.plugin.empty
+   # 描述
+   plugin.desc=this a plugin a empty demo
+   # 版本
+   plugin.version=1.0.0
+   # 扩展
+   plugin.ext=null
+   ```
 
 2. extension.properties 扩展点映射
 
